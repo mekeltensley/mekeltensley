@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mekel Tensley
-- 💙 I’m interested in building robust web applications using Python, Javacript, HTML5, CSS3 and cloud architecture and other tools. 
+- 💙 I’m interested in building robust web applications using Python and Javascript.  
 - 🎨 I’m currently learning how to build build clean, responsive full stack web apps with outstanding functionality.
 
 <!---
