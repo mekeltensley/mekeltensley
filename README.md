@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mekel Tensley
+![WhoAmIDemo](whoamI.gif)
 - 💙 I’m interested in building web applications using Python and JavaScript. 
 - 🎨 Also, I’m currently learning how to integrate the cloud alongside my web development work.
 
